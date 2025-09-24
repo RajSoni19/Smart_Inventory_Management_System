@@ -15,7 +15,7 @@ Modern, full‑stack inventory management for retailers and distributors. This m
 ## 🧰 Tech Stack
 
 - **Backend:** Node.js, Express, PostgreSQL, JWT, Multer, Cloudinary SDK
-- **Frontend:** React 19, React Router, Vite, Tailwind CSS, Recharts
+- **Frontend:** React 19, React Router, Vite, Tailwind CSS, Recharts.js
 - **Tooling:** ESLint, Nodemon
 
 ## 📁 Repository Structure
